@@ -1,6 +1,6 @@
 # Week 4 Assignment
 
-Name: Ian Gachengo
+Name: IAN GACHENGO
 
 ## Question 1
 Data refers to raw facts, figures, or information that is collected for analysis or processing.
@@ -19,7 +19,7 @@ Example:
 2.Photos and videos stored on a computer or phone.
 
 ## Question 3
-A schema is the structure or blueprint of a database that shows how data is organized
+A schema is the structure or blueprint of a database that shows how data is organized.
 
 Example:
 In this case of a table, the schema defines:
