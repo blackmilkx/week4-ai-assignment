@@ -26,7 +26,7 @@ In this case of a table, the schema defines:
 
 Table name: Students
 
-Columns: Student_ID, Name, Age, Grade
+Columns: Student ID, Name, Age, Grade
 
 Data types:
 Student ID:Number
