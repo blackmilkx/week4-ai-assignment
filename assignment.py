@@ -11,9 +11,9 @@ print("Hello AI Students")
 #Age: 20
 #City: Nairobi
 
-name = "Ian"
+name = "John"
 age = 20
-city = "Kiambu"
+city = "Nairobi"
 
 print("Name:", name)
 print("Age:", age)
