@@ -18,10 +18,9 @@ Example 2:A sales spreadsheet showing Date, Product, Quantity, and Price.
 
 Unstructured data is data that does not follow a fixed format or structure. It is usually harder to organize and analyze because it may contain text, images, audio, or videos.
 
-Example:
-1.Emails or text messages.
+Example 1:Emails or text messages.
 
-2.Photos and videos stored on a computer or phone.
+Example 2:Photos and videos stored on a computer or phone.
 
 ## Question 3
 A schema is the structure or blueprint of a database that shows how data is organized.
@@ -34,9 +33,13 @@ Table name: Students
 Columns: Student ID, Name, Age, Grade
 
 Data types:
+
 Student ID:Number
+
 Name:Text
+
 Age:Number
+
 Grade:Text
 
 ## Bonus Question
